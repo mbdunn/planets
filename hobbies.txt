@@ -1,5 +1,5 @@
-knitting
-skiing
-football
-swimming
-baking
+knitting: Productive relaxation
+skiing: Exciting and thrilling
+football: Fun competitive
+swimming: Difficult but improving
+baking: Fun and tatsy
